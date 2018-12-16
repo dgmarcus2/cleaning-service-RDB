@@ -1,2 +1,2 @@
 # cleaning-service-RDB
-A relational database created for a home cleaning service.
+Relational database created for a fictional home cleaning service.
